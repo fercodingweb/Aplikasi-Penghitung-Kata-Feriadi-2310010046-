@@ -5,4 +5,4 @@ Kelas : 5C REG
 
 HASIL TAMPILAN APLIKASI
 
-img/Screenshot 2025-11-02 190824.png
+src/img/Screenshot 2025-11-02 190824.png
